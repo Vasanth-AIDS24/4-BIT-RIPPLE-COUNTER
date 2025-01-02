@@ -81,7 +81,7 @@ Developed by:Vasanth P
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![image](https://github.com/user-attachments/assets/3408c25c-157e-4ef6-adbf-f0336ddfc973)
+![image](https://github.com/user-attachments/assets/2dc0041c-5492-436c-b8ec-1213bf28fdbd)
 
 **RESULTS**
 ```
